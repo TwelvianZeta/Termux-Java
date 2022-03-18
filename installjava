@@ -28,6 +28,8 @@ else
 		archname="arm"; tag="v8-151" ;;
 	armv7l)
 		archname="arm"; tag="v8-151" ;;
+        armv8l)
+                archname="aarch64"; tag="v8" ;;
 	arm)
 		archname="arm"; tag="v8-151" ;;
 	*)
